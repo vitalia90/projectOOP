@@ -1,0 +1,13 @@
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\bin\Debug\netcoreapp2.1\projectOOP.deps.json
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\bin\Debug\netcoreapp2.1\projectOOP.runtimeconfig.json
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\bin\Debug\netcoreapp2.1\projectOOP.runtimeconfig.dev.json
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\bin\Debug\netcoreapp2.1\projectOOP.dll
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\bin\Debug\netcoreapp2.1\projectOOP.pdb
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.csproj.AssemblyReference.cache
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.AssemblyInfoInputs.cache
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.AssemblyInfo.cs
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.csproj.CoreCompileInputs.cache
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.dll
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.pdb
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP_3.0_Vitalik\projectOOP\projectOOP\projectOOP\obj\Debug\netcoreapp2.1\projectOOP.genruntimeconfig.cache
